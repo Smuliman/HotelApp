@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "hotelproject-721c0"
+  },
+  "targets": {
+    "hotelproject-721c0": {
+      "hosting": {
+        "app": [
+          "hotelproject-721c0"
+        ]
+      }
+    }
+  }
+}
